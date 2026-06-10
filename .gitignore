@@ -1,0 +1,12 @@
+# Executabile si binare compilate
+*.exe
+*.o
+*.out
+
+# Configurari locale IDE (VS Code / CLion)
+.vscode/
+.idea/
+cmake-build-debug/
+
+# Documente administrative sau cerinte
+*.docx
